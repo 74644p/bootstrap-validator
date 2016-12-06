@@ -1,4 +1,5 @@
-# Auto HTML form Generator for "Bootstrap-Validator" by 1000hz 
+# HTML FORM validation Generator 
+## for "Bootstrap-Validator" by 1000hz 
 The Validator plugin offers automatic form validation configurable via mostly HTML5 standard attributes.
 It also provides an unobtrusive user experience, because nobody likes a naggy form.
 
