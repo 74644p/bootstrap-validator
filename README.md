@@ -1,6 +1,6 @@
 # HTML FORM validation Generator 
 ## for "Bootstrap-Validator" by 1000hz 
-The Validator plugin offers automatic form validation configurable via mostly HTML5 standard attributes.
+The Validator plugin offers automatic form generation based on user input, validation configurable via mostly HTML5 standard attributes.
 It also provides an unobtrusive user experience, because nobody likes a naggy form.
 
 ## Features
@@ -11,33 +11,13 @@ It also provides an unobtrusive user experience, because nobody likes a naggy fo
 - Custom validator functions
 - Validation of an input field via AJAX
 
-## Installation
-* CDN on [CDNJS](https://cdnjs.com): https://cdnjs.com/libraries/1000hz-bootstrap-validator
-* Clone the repo: `git clone https://github.com/1000hz/bootstrap-validator.git`.
-* Install with [Bower](http://bower.io): `bower install bootstrap-validator`.
-* Install with [npm](https://www.npmjs.com): `npm install bootstrap-validator`.
+
 
 ## Documentation
 
-See the project docs at http://1000hz.github.io/bootstrap-validator
+See the project demo  at http://github.io.lateraljs.com/V4_formGen_tour.php
+& Generator  at http://github.io.lateraljs.com/V4_formGen.php
 
-## Contributing
-#### Found an issue?
-Be sure to include a reproducible test case on JS Bin with your report. Here's a [template](http://jsbin.com/fopaposaci/1/edit?html,js,output) to get started.
-#### Submitting a pull request?
-Fork this repo and create a new branch for your patch.
-Try to adhere to the code style of Bootstrap 3's JS as much as possible.
-Be sure to add any relevant unit tests.
-Make sure everything's still ok by running `grunt test`.
-Lastly, don't pollute your patch branch with any unrelated changes.
-
-## Author
-
-**Cina Saffary**
-- http://twitter.com/1000hz
-- http://github.com/1000hz
-
-Thanks to  [@mdo](https://github.com/mdo) and [@fat](https://github.com/fat) for [Bootstrap](http://getbootstrap.com). <3
 
 ## Copyright and license
 Copyright 2016 Cina Saffary under the MIT license.
